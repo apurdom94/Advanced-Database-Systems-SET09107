@@ -1,4 +1,4 @@
-# Advanced Database Systems SET09107
+# Advanced Database Systems - SET09107
 Content from Advanced Database Systems module at Edinburgh Napier University 23/24.
 
 |#	| Topic                                    ||||
